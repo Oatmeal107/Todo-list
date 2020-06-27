@@ -13,6 +13,6 @@
 ### 项目简介
 使用java语言开发  
 所使用IDE为idea  
-实现代码位于src文件夹memo包内
-测试代码位于src文件夹memoTest包内
-运行主类中的main方法根据提示进行操作即可
+实现代码位于src文件夹memo包内  
+测试代码位于src文件夹memoTest包内  
+使用待办事项各功能时运行主类（control）中的main方法根据提示进行操作即可
